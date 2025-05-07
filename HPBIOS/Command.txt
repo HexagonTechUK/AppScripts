@@ -1,0 +1,2 @@
+.\BIOSConfigUtility64.exe /GetConfig:C:\ProgramData\PH\Config.txt"
+.\BIOSConfigUtility64.exe /SetConfig:C:\ProgramData\PH\Config.txt"
